@@ -1,0 +1,12 @@
+*{
+  margin:auto;
+  padding: auto;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+  color: silver;
+  text-align: center;
+  padding: 15px;
+}

@@ -1,0 +1,14 @@
+.form-control{
+    background-color: #0000ff;
+    padding: 20px;
+    display: flex;
+    
+}
+input{
+    width: 50%;
+    margin: 20px;
+    padding: 8px;
+}
+h2{
+    font-size: 1em;
+}
